@@ -1,8 +1,8 @@
-Hi, I’m Rashi Gautam 👋
-I'm a B.Tech student in CSE.
-💻 A Computer Science student passionate about problem solving and tech
-📚 Currently mastering DSA 
-🤖 Exploring AI and building solutions for real-world problems.
+>>Hi, I’m Rashi Gautam 👋
+>>I'm a B.Tech student in CSE.
+>>💻 A Computer Science student passionate about problem solving and tech
+>>📚 Currently mastering DSA 
+>>🤖 Exploring AI and building solutions for real-world problems.
 
 
 
